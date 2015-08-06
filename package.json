@@ -1,0 +1,23 @@
+{
+  "name": "node-clilist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binRick/node-clilist.git"
+  },
+  "author": "Rick Blundell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/node-clilist/issues"
+  },
+  "homepage": "https://github.com/binRick/node-clilist#readme",
+  "dependencies": {
+    "cli-clear": "^1.0.4",
+    "term-list": "^0.2.1"
+  }
+}
